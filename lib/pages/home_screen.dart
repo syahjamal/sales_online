@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sales_online/authentication_bloc/bloc.dart';
 import 'package:sales_online/pages/orders_page.dart';
 import 'package:sales_online/pages/home_page.dart';
+import 'package:sales_online/widgets/cart_button.dart';
 
 class HomeScreen extends StatefulWidget {
   final String name;
@@ -46,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen>
                 LoggedOut(),
               );
             },
-          )
+          ),
         ],
       ),
       body: SizedBox.expand(
