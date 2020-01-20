@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "572163722739",
+    "firebase_url": "https://sibeton-app.firebaseio.com",
+    "project_id": "sibeton-app",
+    "storage_bucket": "sibeton-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:12034ecc783e15f9aed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.appsibeton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-fm24pujt6c1gi8qoftpc2mrak3a92k6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.appsibeton",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:a9b3a23f8f2e1eacaed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.productbeckend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-unccl0qkbrmnhtt76ir54692bjdgdka0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.productbeckend",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:49e4b252fd313fe3aed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.sales_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-9qk357vmqhdfbcfa205cktd9chqemlnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.sales_online",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:a6db41f1e96885f9aed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.sibeton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-quubh0oehlkttk0gtcpec9i860jtagnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.sibeton",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:50ca4e181a557a7faed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.sibeton_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-1vke6p6lnokih8b0r96t3n5tt7f3a433.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.sibeton_ecommerce",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572163722739:android:57da6dab6455994faed686",
+        "android_client_info": {
+          "package_name": "com.semenindonesiabeton.sibetonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572163722739-1ihacom5iu55nmnjmb67oivdo8c9mddl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semenindonesiabeton.sibetonapp",
+            "certificate_hash": "58c81968f7210a4c145af5a3ff17531e957e8c1f"
+          }
+        },
+        {
+          "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9OgIZ1bGC_BDwImj6XtC9Q6UH7dSjzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572163722739-id0jphn1lpd6vjshdeo02rm74rumb2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
